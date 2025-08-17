@@ -1,6 +1,9 @@
 
 ## 🐢 Turtle Race Game
 
+### This project was developed as part of a learning course on the **Actocode app** by Mr. Ibrahim Adel.
+
+
 A fun and interactive Python game built with the **turtle graphics library**, where colorful turtles compete in a race.  
 Cheer for your favorite turtle and see who crosses the finish line first! 🎉
 
