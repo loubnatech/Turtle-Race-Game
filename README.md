@@ -36,5 +36,17 @@ Cheer for your favorite turtle and see who crosses the finish line first! 🎉
 ├── README.md            # Project description
 └── LICENSE              # License file (MIT)
 ## License
-   
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+---
+
+## Acknowledgments
+Developed using Python and the Turtle graphics library.
 
