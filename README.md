@@ -22,7 +22,8 @@ Cheer for your favorite turtle and see who crosses the finish line first! 🎉
    python main.py
    Watch the turtles race and enjoy! 🐢🏁
 ## 📸 Demo
-![Turtle Race Game Screenshot](assets/screenshot.png)
+![Turtle Race Game Screenshot](assets/demo.png)
+
 
 ## Turtle-Race-Game/
 │
