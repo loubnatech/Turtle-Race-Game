@@ -201,26 +201,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-
-# PyInstaller
-build/
-dist/
-*.spec
-
-# Environments
-.venv/
-env/
-ENV/
-venv/
-
-# IDEs
-.vscode/
-.idea/
-
-# OS junk
-.DS_Store
-Thumbs.db
